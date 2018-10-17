@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 title: <h1>SML209-18</H1>
 github:
-  page2: page2.html
-  page3: page3.html
+  page2: grammar.html
+  page3: vocabulary.html
+  page4: page4.html
+  page5: page5.html
