@@ -5,7 +5,7 @@
 </p>
 
 <img style="width:70%; vertical-align:top; border:1px solid red;"
-src="https://cdn01.alison-static.net/courses/834/alison_courseware_intro_834.jpg" alt="fof">
+src="https://www.cliffsnotes.com/~/media/f6e3135849e14a5cad00f76975e08b93.ashx?la=en" alt="fof">
 
   
 
