@@ -2,5 +2,8 @@
 ---
 @import "{{ site.theme }}";
 
-p { color:red;
+.imgLeft {
+float:Left;
+margin-right:10px;
+margin-bottom:10px;
 }
