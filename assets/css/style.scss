@@ -11,6 +11,9 @@ vertical-align:top;
 border: 1px solid red;
 }
 
-h1 {
-  color:pink;
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #1c2960, #ff0000);
 }
